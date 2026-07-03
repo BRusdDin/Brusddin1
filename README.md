@@ -18,3 +18,4 @@ account BASE
 BASE is BASE is BEST
 BASE 1st
 aku dan BASE
+aku, kamu, kita semua suka BASE
