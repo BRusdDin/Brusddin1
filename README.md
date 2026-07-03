@@ -13,3 +13,4 @@ BASE is FAST
 BASE is pelopor
 BASE BASE BASE
 BASE times BASE = BEST
+BASE for LIFE
