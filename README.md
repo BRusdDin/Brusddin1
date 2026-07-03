@@ -20,3 +20,4 @@ BASE 1st
 aku dan BASE
 aku, kamu, kita semua suka BASE
 BASE great all of time
+pecinta BASE
